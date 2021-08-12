@@ -11,7 +11,7 @@ ssm实验室设备管理系统。
 主要功能学校实验设备的借、还、修以及实验课程的发布等等 
 ```
 
-源码获取：[点此获取](http://www.shuyue.fun/index.php?type=productinfo&id=136)
+源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=136)
 
 #### 环境需要
 ```
